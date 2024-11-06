@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000;
+}
+
+.neon-text {
+  color: #fff;
+  text-shadow: 0 0 7px #ffffff, 0 0 9px #ff00e5, 0 0 42px #d702ef;
+}
+
+/* a {
+  color: #ffe55f !important;
+  text-shadow: 0 0 7px #ff7a14, 0 0 32px #ffd500;
+} */
+
+.neon-text-red {
+  color: #ff7997;
+  text-shadow: 0 0 7px #f32323, 0 0 42px #d70044;
+}
+
+.neon-text-red-intense {
+  color: #ff7997;
+  text-shadow: 0 0 7px #f32323, 0 0 7px #ffa816, 0 0 42px #d70044,
+    0 0 42px #ff0368;
+}
+
+.neon-text-pink {
+  color: #ff90f4;
+  text-shadow: 0 0 7px #ff14bc, 0 0 32px #f100ff;
+}
+
+.neon-text-pink-intense {
+  color: #ff90f4;
+  text-shadow: 0 0 7px #ff14bc, 0 0 32px #f100ff, 0 0 42px #f100ff;
+}
+
+.neon-text-yellow {
+  color: #ffe55f;
+  text-shadow: 0 0 7px #ff7a14, 0 0 32px #ffd500;
+}
+
+.neon-text-yellow-intense {
+  color: #ffe55f;
+  text-shadow: 0 0 7px #ff7a14, 0 0 7px #ff6d0c, 0 0 32px #ffd500,
+    0 0 42px #ffd500;
+}
+
+.neon-text-green {
+  color: #6bfa93;
+  text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19;
+}
+
+.neon-text-green-intense {
+  color: #6bfa93;
+  text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19, 0 0 38px #00ff19;
+}
+
+.neon-text-blue {
+  color: #a1fff8;
+  text-shadow: 0 0 7px #509fff, 0 0 32px #00ccff;
+}
+
+.neon-text-blue-intense {
+  color: #a1fff8;
+  text-shadow: 0 0 7px #509fff, 0 0 7px #2bffaa, 0 0 32px #00ccff,
+    0 0 42px #00ccff;
+}
+
+.neon-text-purple {
+  color: #d26aff;
+  text-shadow: 0 0 7px #b914ff, 0 0 32px #e600ff;
+}
+
+.neon-text-purple-intense {
+  color: #d26aff;
+  text-shadow: 0 0 7px #b914ff, 0 0 32px #e600ff, 0 0 64px #e600ff;
+}
+
+.hover-fade {
+  @apply hover:opacity-75 transition-opacity duration-150;
+}
+
+.hover-glow {
+  @apply hover:text-white transition-colors duration-150;
+}
+
+.quick-link {
+  @apply inline-block mr-6 lg:mr-8 text-base lg:text-lg hover:text-white focus:underline transition-colors duration-150;
+  color: #ff90f4;
+  text-shadow: 0 0 7px #ff14bc, 0 0 32px #f100ff;
+}
+
+.quick-link:hover {
+  color: #ff90f4;
+  text-shadow: 0 0 7px #ff14bc, 0 0 32px #f100ff, 0 0 42px #f100ff;
+}
+
+.email-link {
+  color: #ff7997;
+  text-shadow: 0 0 7px #f32323, 0 0 42px #d70044;
+}
+
+.email-link:hover {
+  color: #ff7997;
+  text-shadow: 0 0 7px #f32323, 0 0 7px #ffa816, 0 0 42px #d70044,
+    0 0 42px #ff0368;
+}
+
+.lecture-link {
+  color: #6bfa93;
+  text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19;
+}
+
+.lecture-link:hover {
+  color: #6bfa93;
+  text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19, 0 0 38px #00ff19;
+}
+
+.assignment-link {
+  color: #ffe55f;
+  text-shadow: 0 0 7px #ff7a14, 0 0 32px #ffd500;
+}
+
+.assignment-link:hover {
+  color: #ffe55f;
+  text-shadow: 0 0 7px #ff7a14, 0 0 7px #ff6d0c, 0 0 32px #ffd500,
+    0 0 42px #ffd500;
+}
+
+.table {
+  @apply w-full text-sm md:text-base text-left mt-8;
+}
+
+.table-header {
+  @apply border-b border-gray-700 text-base md:text-xl text-gray-100;
+}

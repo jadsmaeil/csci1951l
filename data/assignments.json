@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Homework 0: Course Setup",
+    "link": "https://hackmd.io/reF_UUBARqGMfHqp9IHPHQ",
+    "out": "1/28",
+    "in": "ASAP"
+  },
+  {
+    "name": "Lab 1: Introduction to Go",
+    "link": "https://hackmd.io/klMXTtP_TFSK1AmUdc7RyQ",
+    "out": "1/29",
+    "in": "2/11"
+  },
+  {
+    "name": "Homework 1: Blockchains",
+    "out": "1/29",
+    "link": "https://hackmd.io/rEPxRQDvSgyGq8_UQFfTbg",
+    "in": "2/04"
+  },
+  {
+    "name": "Project 1: Chain",
+    "link": "https://hackmd.io/S3O29NURSHWzYnWaaR2R0A",
+    "out": "2/05",
+    "in": "2/25"
+  },
+  {
+    "name": "Homework 2: Bitcoin",
+    "link": "https://hackmd.io/3es2T78TRB-1DmCzYInNQg?view",
+    "out": "2/12",
+    "in": "2/22"
+  },
+  {
+    "name": "Project 2: Coin",
+    "link": "https://hackmd.io/kCuLElPgTfmaRvXNcplR1w",
+    "out": "3/04",
+    "in": "3/22"
+  },
+  {
+    "name": "Homework 3: Ethereum & Solidity",
+    "link": "https://hackmd.io/KmycBEmSRzGtzhbVzZ-WtQ",
+    "out": "3/12",
+    "in": "3/17"
+  },
+  {
+    "name": "Project 3: Lightning",
+    "out": "4/09",
+    "in": "4/24",
+    "link": "https://hackmd.io/IGoXeNVZQgSvpdw8Og5xwg"
+  },
+  {
+    "name": "Lab 2: Introduction to Solidity",
+    "out": "4/15",
+    "link": "https://hackmd.io/gY8giQ6OR6q9LYTjzmbtUg",
+    "in": "4/29"
+  },
+  {
+    "name": "Project 4: Swap",
+    "out": "4/27",
+    "in": "5/06",
+    "link": "https://hackmd.io/heBnwZujS1WiwEvqojBfbQ"
+  },
+  {
+    "name": "Homework 4: Cross-Chain, Wallets, Byzantine, & Privacy",
+    "out": "4/29",
+    "in": "5/06",
+    "link": "https://hackmd.io/qn5eawjxRKCXVDwY8M8bTw"
+  },
+  {
+    "name": "Written: White Paper",
+    "out": "5/04",
+    "in": "5/16",
+    "link": "https://hackmd.io/gzfBKELXQE6HdfUOLJYOqg"
+  }
+]

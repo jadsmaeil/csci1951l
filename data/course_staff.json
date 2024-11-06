@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Maurice Herlihy",
+    "image": "/staff/maurice.jpeg",
+    "position": "Professor",
+    "pronouns": "he/him",
+    "csLogin": "mherlihy",
+    "desc": "I like figuring out how to make things sync."
+  },
+  {
+    "name": "Brian Sutioso",
+    "image": "/staff/brian.jpg",
+    "position": "HTA",
+    "pronouns": "he/him",
+    "csLogin": "bsutioso",
+    "desc": "Hi! I'm a senior studying Computer Science. I love hiking and playing tennis!"
+  },
+  {
+    "name": "Abhyudaya Sharma",
+    "image": "/staff/abhyudaya.png",
+    "position": "HTA",
+    "csLogin": "ashar161",
+    "pronouns": "he/him",
+    "desc": "Hi, I’m a Masters student studying CS! When I’m not writing code, you can find me gaming, swimming or playing tennis."
+  },
+  {
+    "name": "Sam Devorsetz",
+    "image": "/staff/sam.jpeg",
+    "position": "UTA",
+    "pronouns": "he/him",
+    "csLogin": "adevorse",
+    "desc": "I'm a senior from New York studying Math & CS. Outside of school, I like to play the bass and spend time outside."
+  }
+]

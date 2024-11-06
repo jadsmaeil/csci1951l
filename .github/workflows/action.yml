@@ -1,0 +1,34 @@
+# This is a basic workflow to help you get started with Actions
+
+name: scp files
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    name: Deploy via SCP
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: copy file via ssh password
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        source: "*"
+        target: "/web/cs/web/courses/cs1951l"
+
+  permissions:
+    name: Set Permissions
+    needs: [deploy]
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        script: sh /web/cs/web/courses/cs1951l/permission.sh
