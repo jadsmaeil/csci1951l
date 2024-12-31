@@ -24,7 +24,7 @@ const AnimatedHeader: FC<AnimatedHeaderProps> = ({}) => {
             <img src="/anim_placeholder.jpeg" className="object-cover w-full h-screen"/>
         </video> */}
       {/* object should shrink if mobile */}
-      <img src="/headerImage.png" className="object-cover w-screen h-screen mx-auto" />
+      <img src="/headerImage.png" className="w-full h-auto max-h-screen object-cover" />
     </div>
   );
 };
