@@ -9,7 +9,7 @@ const AnimatedHeader: FC<AnimatedHeaderProps> = ({}) => {
       style={{ backgroundColor: "#130013" }}
     >
       <div className="sr-only absolute top-20 text-center w-full">
-        <h1 className="text-3xl">
+        <h1 className="text-xl">
           CSCI 1951L: Blockchains and Cryptocurrencies
         </h1>
         <a href="#course-info">Jump to main content</a>
@@ -24,7 +24,7 @@ const AnimatedHeader: FC<AnimatedHeaderProps> = ({}) => {
             <img src="/anim_placeholder.jpeg" className="object-cover w-full h-screen"/>
         </video> */}
       {/* object should shrink if mobile */}
-      <img src="/coin.png" className="object-cover w-64 h-64 mx-auto mt-20 mb-15" />
+      <img src="/headerImage.png" className="object-cover w-screen h-screen mx-auto" />
     </div>
   );
 };
