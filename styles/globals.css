@@ -5,6 +5,9 @@
 body {
   background-color: #000000;
 }
+body {
+  zoom: 1.25;
+}
 
 .neon-text {
   color: #fff;
