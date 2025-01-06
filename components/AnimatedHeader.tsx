@@ -24,7 +24,12 @@ const AnimatedHeader: FC<AnimatedHeaderProps> = ({}) => {
             <img src="/anim_placeholder.jpeg" className="object-cover w-full h-screen"/>
         </video> */}
       {/* object should shrink if mobile */}
-      <img src="/headerImage.png" className="w-full max-h-[40vh] object-contain mt-20" style={{ height: "40vh" }} />
+      <img
+        src="/headerImage.png"
+        className="w-full max-h-[40vh] object-contain mt-20 mx-auto"
+        // width={1000}
+        // style={{ height: "40vh" }}
+      />
     </div>
   );
 };
