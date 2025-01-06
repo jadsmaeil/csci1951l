@@ -221,10 +221,6 @@ body {
     0 0 4px #00b3ff;  
 }
 
-.lecture-table-header th {
-  padding-left: 0.7rem;
-}
-
 .lecture-table-row {
   background-color: #121212;
   color: #fff;
@@ -239,6 +235,15 @@ body {
 
 .lecture-table td {
   padding: 1rem;
+}
+
+@media (max-width: 640px) {
+  .lecture-table td {
+    padding: 0.5rem;
+  }
+  .lecture-table th {
+    padding-left: 0.5rem;
+  }
 }
 
 .lecture-link {
