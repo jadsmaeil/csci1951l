@@ -1,0 +1,142 @@
+nav {
+    font-family: 'Orbitron', sans-serif;
+    z-index: 50;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    padding: 0.3rem 0;
+    transition: all 0.3s ease-in-out;
+}
+
+nav .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.5rem;
+}
+
+nav .logo-container {
+    display: flex;
+    align-items: center;
+    padding: 0 0.5rem;
+    background: linear-gradient(90deg, #302b63, #24243e);
+    border-radius: 4px;
+}
+
+nav .logo {
+    font-size: 1rem; 
+    color: #ffffff;
+}
+
+nav .menu-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: none;
+}
+
+nav .desktop-menu {
+    display: none; 
+}
+
+nav .mobile-menu {
+    display: none;
+    flex-direction: column;
+    background: rgba(15, 12, 41, 0.95); 
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 0.3rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+nav .mobile-menu.show {
+    display: flex;
+}
+
+nav .menu-button {
+    display: block;
+    font-size: 1rem; 
+    color: #ffffff;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+nav .mobile-menu button {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0.2rem; 
+    border-radius: 4px;
+    padding: 0.3rem 0.6rem;
+    font-size: 0.8rem;
+}
+
+nav .mobile-menu button:last-child {
+    margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+    nav .desktop-menu {
+        display: flex;
+        gap: 1rem; 
+    }
+
+    nav .menu-button {
+        display: none; 
+    }
+
+    nav .mobile-menu {
+        display: none;
+    }
+}
+
+
+button {
+    cursor: pointer;
+    outline: none;
+    transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease, text-shadow 0.3s ease;
+}
+
+button:hover {
+    color: #00ffab; 
+    text-shadow: 0 0 8px #00ffab, 0 0 16px #00ffab;
+    transform: translateY(-2px); 
+}
+
+
+.hover-fade {
+    position: relative;
+    overflow: hidden;
+}
+
+.hover-fade::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background: #00ffab; 
+    transition: width 0.3s ease;
+}
+
+.hover-fade:hover::after {
+    width: 100%;
+}
+
+nav.bg-opacity-60 {
+    transition: background-color 0.3s ease;
+}
+
+nav.bg-opacity-0 {
+    background-color: transparent;
+}
+
+nav.bg-opacity-60:hover {
+    background-color: rgba(15, 12, 41, 0.9);
+}

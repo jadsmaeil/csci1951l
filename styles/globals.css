@@ -5,6 +5,9 @@
 body {
   background-color: #000000;
 }
+body {
+  zoom: 1.1;
+}
 
 .neon-text {
   color: #fff;
@@ -109,7 +112,7 @@ body {
     0 0 42px #ff0368;
 }
 
-.lecture-link {
+/* .lecture-link {
   color: #6bfa93;
   text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19;
 }
@@ -117,9 +120,9 @@ body {
 .lecture-link:hover {
   color: #6bfa93;
   text-shadow: 0 0 7px #00ffa6, 0 0 32px #00ff19, 0 0 38px #00ff19;
-}
+} */
 
-.assignment-link {
+/* .assignment-link {
   color: #ffe55f;
   text-shadow: 0 0 7px #ff7a14, 0 0 32px #ffd500;
 }
@@ -136,4 +139,135 @@ body {
 
 .table-header {
   @apply border-b border-gray-700 text-base md:text-xl text-gray-100;
+} */
+
+
+
+/* Assignment table CSS */
+
+.table {
+  @apply w-full text-sm md:text-base text-left mt-8 border-separate;
+  border-spacing: 0;
+  border: 2px solid #ffe55f;
+  box-shadow: 
+    0 0 3px #ffe55f, 
+    0 0 6px #ffd500;
+  background: linear-gradient(135deg, #1a1a1a, #121212);
+}
+
+.table-header {
+  @apply border-b-2 border-gray-700 text-base md:text-xl;
+  background-color: #202020;
+  color: #ffe55f;
+  text-shadow:
+    0 0 1px #ffe55f, 
+    0 0 2px #ffd500;
+}
+
+.table-header th {
+  padding: 1rem;
+}
+
+.table-row {
+  background-color: #121212;
+  color: #fff;
+  text-shadow: 0 0 2px #444; 
+  transition: background-color 0.3s, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.table-row:nth-child(even) {
+  background-color: #1a1a1a;
+}
+
+.table-row td {
+  padding: 1rem;
+}
+
+.assignment-link {
+  color: #ffe55f;
+  text-shadow: 
+    0 0 1px #ffe55f, 
+    0 0 2px #ffd500;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+.assignment-link:hover {
+  color: #fff;
+  text-shadow: 
+    0 0 3px #ffd500, 
+    0 0 6px #ffe55f, 
+    0 0 8px #ff7a14; 
+  transform: scale(1.05);
+}
+
+
+
+
+/* Lecture table CSS  */
+.lecture-table {
+  @apply w-full text-sm md:text-base text-left mt-8 border-separate;
+  border-spacing: 0;
+  border: 2px solid #00ff99;
+  box-shadow: 
+    0 0 5px #00ff99, 
+    0 0 10px #00b3ff;
+  background: linear-gradient(135deg, #1a1a1a, #121212);
+}
+
+.lecture-table-header {
+  @apply border-b-2 border-gray-700 text-base md:text-xl;
+  background-color: #202020;
+  color: #00ff99;
+  text-shadow: 
+    0 0 2px #00ff99, 
+    0 0 4px #00b3ff;  
+}
+
+.lecture-table-row {
+  background-color: #121212;
+  color: #fff;
+  text-shadow: 0 0 2px #444;
+  transition: background-color 0.3s, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.lecture-table-row:nth-child(even) {
+  background-color: #1a1a1a;
+}
+
+.lecture-table td {
+  padding: 1rem;
+}
+
+@media (max-width: 640px) {
+  .lecture-table td {
+    padding: 0.5rem;
+  }
+  .lecture-table th {
+    padding-left: 0.5rem;
+  }
+}
+
+.lecture-link {
+  color: #00ff99;
+  text-shadow: 
+    0 0 2px #00ff99, 
+    0 0 4px #00b3ff; 
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+.lecture-link:hover {
+  color: #fff;
+  text-shadow: 
+    0 0 4px #00b3ff, 
+    0 0 8px #00ff99,
+    0 0 12px #00ff7f;
+  transform: scale(1.05);
+}
+
+.arrow {
+  font-size: 1.1rem;
+  margin-left: 0.3rem;
+  vertical-align: middle;
 }

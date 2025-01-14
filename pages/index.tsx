@@ -1,13 +1,13 @@
-import PageLayout from "../components/PageLayout";
-import CollapsiblePanel from "../components/CollapsiblePanel";
-import ContentSection from "../components/ContentSection";
-import Navbar from "../components/Navbar";
-import QuickLinks from "../components/QuickLinks";
 import AnimatedHeader from "../components/AnimatedHeader";
 import AssignmentsTable from "../components/AssignmentsTable";
-import LecturesTable from "../components/LecturesTable";
+import CollapsiblePanel from "../components/CollapsiblePanel";
+import ContentSection from "../components/ContentSection";
 import CourseStaffGrid from "../components/CourseStaffGrid";
 import FAQSection from "../components/FAQSection";
+import LecturesTable from "../components/LecturesTable";
+import Navbar from "../components/Navbar";
+import PageLayout from "../components/PageLayout";
+import QuickLinks from "../components/QuickLinks";
 
 const HTA_EMAIL = "cs1951lheadtas@lists.brown.edu";
 const PROF_EMAIL = "mph@cs.brown.edu";
@@ -331,7 +331,7 @@ export default function Home() {
             {/* Page footer*/}
             <footer className="pb-12 px-6 text-center text-sm md:text-lg font-bold">
               <p className="font-bold">
-                Copyright © 2024 CSCI 1951L at Brown University
+                Copyright © 2025 CSCI 1951L at Brown University
               </p>
             </footer>
           </div>
