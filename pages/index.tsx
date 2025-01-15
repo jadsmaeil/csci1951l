@@ -268,14 +268,6 @@ export default function Home() {
                   <FAQSection question="Can I audit this course?">
                     Yes.
                   </FAQSection>
-                  <FAQSection question="Can I capstone this course?">
-                    Yes. Please read{" "}
-                    <Link
-                      link="https://drive.google.com/file/d/10VWOLpUqv56RJATp_pIFcz-jdYuC9g1Y/view?usp=sharing"
-                      text="this default capstone project description"
-                    />
-                    . Email <EmailLink email={PROF_EMAIL} /> with questions.
-                  </FAQSection>
                   <FAQSection question="I'm really stressed out, what can I do?">
                     We completely understand how stressful being a student can
                     be. If you are ever feeling overwhelmed, please don't
@@ -311,6 +303,14 @@ export default function Home() {
                     him at mph@cs.brown.edu to make an appointment.
                   </FAQSection>
                 </div>
+              </CollapsiblePanel>
+              <CollapsiblePanel title="Can I capstone this course?">
+              Yes. Please read{" "}
+                    <Link
+                      link="https://drive.google.com/file/d/10VWOLpUqv56RJATp_pIFcz-jdYuC9g1Y/view?usp=sharing"
+                      text="this default capstone project description"
+                    />
+                    . Email <EmailLink email={PROF_EMAIL} /> with questions.
               </CollapsiblePanel>
             </ContentSection>
             
