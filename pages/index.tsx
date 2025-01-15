@@ -311,13 +311,16 @@ export default function Home() {
                   </FAQSection>
                 </div>
               </CollapsiblePanel>
-              <CollapsiblePanel title="Can I capstone this course?">
-                Yes. Please read{" "}
+              <CollapsiblePanel title="Capstone Project">
+                Students may capstone this course. For the project description,
+                please read{" "}
                 <Link
                   link="https://drive.google.com/file/d/10VWOLpUqv56RJATp_pIFcz-jdYuC9g1Y/view?usp=sharing"
                   text="this default capstone project description"
                 />
-                . Email <EmailLink email={PROF_EMAIL} /> with questions.
+                .
+                <br />
+                Email <EmailLink email={PROF_EMAIL} /> with questions.
               </CollapsiblePanel>
             </ContentSection>
 
