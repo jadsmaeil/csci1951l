@@ -338,7 +338,7 @@ export default function Home() {
             <ContentSection title="Lectures" id="lectures" titleColor="green">
               <p className="my-4">
                 Lectures will take place Tuesdays and Thursdays from
-                2:30pm-3:50pm ET in Kassar House FOX. Recordings will be
+                2:30pm-3:50pm ET in  Salomon Center 003. Recordings will be
                 available soon after lecture ends.
               </p>
               {/* <p>
