@@ -26,7 +26,7 @@ const quickLinks: { name: string; href: string }[] = [
   //   name: "TA Hours",
   //   href: "https://calendar.google.com/calendar/u/1?cid=Y19lcTA1MXNrbjZlZ3UxMDZwMXZxaDZsbjM4b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
   // },
-  { name: "Anonymous Feedback", href: "https://forms.gle/r2Dzs7onRgWmjdmeA" },
+  { name: "Anonymous Feedback", href: "https://docs.google.com/forms/d/e/1FAIpQLSeYz3RaQY4Fql-PKV28oBI99tEY8G9oLUpSzLY_suq-TcXvtw/viewform?usp=dialog" },
 ];
 
 const EmailLink = ({ email }: { email: string }) => (
@@ -100,10 +100,18 @@ export default function Home() {
                     is appropriate, please reach out to a TA.
                   </p>
                   <p>
-                    Note: TAs reserve the right to ask questions about any line
-                    of code you have written. If you are unable to explain what
-                    your code is doing, or your explanation is unsatisfactory,
-                    there may be disciplinary consequences.
+                    You are permitted to use AI tools such as ChatGPT and
+                    Copilot for high-level conceptual understanding of
+                    projects/homeworks and small low-level coding details, as
+                    long as you are not using them to copy-paste large swaths of
+                    the assignment or entire written answers.
+                  </p>
+                  <p>
+                    Note: During interactive grading sessions, TAs reserve the
+                    right to ask questions about any line of code you have
+                    written. If you are unable to explain what your code is
+                    doing, or your explanation is unsatisfactory, there may be
+                    disciplinary consequences.
                   </p>
                   <FAQSection question="Projects">
                     <ul className="list-outside pl-8 list-disc">
@@ -137,6 +145,10 @@ export default function Home() {
                       <li>
                         All homeworks must be{" "}
                         <b className="neon-text-red">completed individually.</b>
+                      </li>
+                      <li>
+                        You are welcome to ideate with other students, but the
+                        words you turn in must be your own.
                       </li>
                       <li>
                         If you’re stuck, you should (1) post on EdStem or (2)
@@ -259,14 +271,6 @@ export default function Home() {
                   <FAQSection question="Can I audit this course?">
                     Yes.
                   </FAQSection>
-                  <FAQSection question="Can I capstone this course?">
-                    Yes. Please read{" "}
-                    <Link
-                      link="https://drive.google.com/file/d/10VWOLpUqv56RJATp_pIFcz-jdYuC9g1Y/view?usp=sharing"
-                      text="this default capstone project description"
-                    />
-                    . Email <EmailLink email={PROF_EMAIL} /> with questions.
-                  </FAQSection>
                   <FAQSection question="I'm really stressed out, what can I do?">
                     We completely understand how stressful being a student can
                     be. If you are ever feeling overwhelmed, please don't
@@ -275,6 +279,48 @@ export default function Home() {
                     need.
                   </FAQSection>
                 </div>
+              </CollapsiblePanel>
+              <CollapsiblePanel title="TA Hours">
+                <div className="space-y-5">
+                  <p>
+                    There will be TA hours throughout the week according to the
+                    course calendar. Some will be remote 1-on-1 TA hours, while
+                    others will be in-person collab hours. Both are designed to
+                    answer HW/Project questions. Please check the Hours website
+                    for the Zoom link/location.
+                  </p>
+                  <FAQSection question="Remote Hours">
+                    Create a ticket in the queue with a description of your
+                    question. When you are claimed, join the Zoom link. If
+                    multiple people have similar questions (whether it's
+                    homework or project related), we may claim multiple people
+                    and explain the question conceptually at the same time.
+                  </FAQSection>
+                  <FAQSection question="Collab Hours">
+                    No need to join the queue, just find the room that hours are
+                    hosted in. The TA will attempt to group people by similar
+                    questions and go around the room addressing their questions
+                    as a group. Feel free to collaborate at a high level or
+                    assist with debugging with your peers during these collab
+                    hours.
+                  </FAQSection>
+                  <FAQSection question="Professor Hours">
+                    Maurice's hours are available by appointment. Please contact
+                    him at <EmailLink email={PROF_EMAIL} /> to make an
+                    appointment.
+                  </FAQSection>
+                </div>
+              </CollapsiblePanel>
+              <CollapsiblePanel title="Capstone Project">
+                Students may capstone this course. For the project description,
+                please read{" "}
+                <Link
+                  link="https://drive.google.com/file/d/10VWOLpUqv56RJATp_pIFcz-jdYuC9g1Y/view?usp=sharing"
+                  text="this default capstone project description"
+                />
+                .
+                <br />
+                Email <EmailLink email={PROF_EMAIL} /> with questions.
               </CollapsiblePanel>
             </ContentSection>
 
@@ -301,7 +347,7 @@ export default function Home() {
             <ContentSection title="Lectures" id="lectures" titleColor="green">
               <p className="my-4">
                 Lectures will take place Tuesdays and Thursdays from
-                2:30pm-3:50pm ET in Kassar House FOX. Recordings will be
+                2:30pm-3:50pm ET in Salomon Center 003. Recordings will be
                 available soon after lecture ends.
               </p>
               {/* <p>
