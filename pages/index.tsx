@@ -26,7 +26,7 @@ const quickLinks: { name: string; href: string }[] = [
   //   name: "TA Hours",
   //   href: "https://calendar.google.com/calendar/u/1?cid=Y19lcTA1MXNrbjZlZ3UxMDZwMXZxaDZsbjM4b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
   // },
-  { name: "Anonymous Feedback", href: "https://forms.gle/r2Dzs7onRgWmjdmeA" },
+  { name: "Anonymous Feedback", href: "https://docs.google.com/forms/d/e/1FAIpQLSeYz3RaQY4Fql-PKV28oBI99tEY8G9oLUpSzLY_suq-TcXvtw/viewform?usp=dialog" },
 ];
 
 const EmailLink = ({ email }: { email: string }) => (
