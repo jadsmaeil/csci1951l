@@ -14,19 +14,18 @@ const PROF_EMAIL = "mph@cs.brown.edu";
 
 // List of links displayed under the Quick Links section.
 const quickLinks: { name: string; href: string }[] = [
-  { name: "Syllabus", href: "/cs1951L-syllabus-2024.pdf" },
-  { name: "EdStem", href: "https://edstem.org/" },
+  { name: "Syllabus", href: "/cs1951L-syllabus-2025.pdf" },
+  // { name: "EdStem", href: "https://edstem.org/" },
   { name: "Hours", href: "https://hours.cs.brown.edu/" },
-  { name: "Gradescope", href: "https://www.gradescope.com/courses/716913" },
+  // { name: "Gradescope", href: "" },
   {
     name: "Course Calendar",
-    href: "https://calendar.google.com/calendar/u/1?cid=Y19iNDc1OTViYWMxZTRmMGQ3NTBlMjJjNTQxZDZhNjU3ZjZjNGI2ZjVhMzFiNDgzODE1MTc4MTk2ZDQ2NzBiZDg3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    href: "https://calendar.google.com/calendar/embed?src=c_b607bcdd32f449dbff69a0613511dd4464657249685c1cfd36a0733e35f156e4%40group.calendar.google.com&ctz=America%2FNew_York",
   },
-  // {
-  //   name: "TA Hours",
-  //   href: "https://calendar.google.com/calendar/u/1?cid=Y19lcTA1MXNrbjZlZ3UxMDZwMXZxaDZsbjM4b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-  // },
-  { name: "Anonymous Feedback", href: "https://docs.google.com/forms/d/e/1FAIpQLSeYz3RaQY4Fql-PKV28oBI99tEY8G9oLUpSzLY_suq-TcXvtw/viewform?usp=dialog" },
+  {
+    name: "Anonymous Feedback",
+    href: "https://docs.google.com/forms/d/e/1FAIpQLSeYz3RaQY4Fql-PKV28oBI99tEY8G9oLUpSzLY_suq-TcXvtw/viewform?usp=dialog",
+  },
 ];
 
 const EmailLink = ({ email }: { email: string }) => (
