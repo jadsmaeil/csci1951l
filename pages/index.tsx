@@ -15,9 +15,9 @@ const PROF_EMAIL = "mph@cs.brown.edu";
 // List of links displayed under the Quick Links section.
 const quickLinks: { name: string; href: string }[] = [
   { name: "Syllabus", href: "/cs1951L-syllabus-2025.pdf" },
-  // { name: "EdStem", href: "https://edstem.org/" },
+  { name: "EdStem", href: "https://edstem.org/us/courses/74765/discussion" },
   { name: "Hours", href: "https://hours.cs.brown.edu/" },
-  // { name: "Gradescope", href: "" },
+  { name: "Gradescope", href: "https://www.gradescope.com/courses/962831" },
   {
     name: "Course Calendar",
     href: "https://calendar.google.com/calendar/embed?src=c_b607bcdd32f449dbff69a0613511dd4464657249685c1cfd36a0733e35f156e4%40group.calendar.google.com&ctz=America%2FNew_York",
