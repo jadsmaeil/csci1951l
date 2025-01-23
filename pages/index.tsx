@@ -369,6 +369,20 @@ export default function Home() {
               <LecturesTable />
             </ContentSection>
 
+            {/* Course Calendar Section */}
+            <ContentSection
+              title="Course Calendar"
+              id="calendar"
+              titleColor="purple"
+            >
+              <iframe
+                src="https://calendar.google.com/calendar/embed?src=c_b607bcdd32f449dbff69a0613511dd4464657249685c1cfd36a0733e35f156e4%40group.calendar.google.com&ctz=America%2FNew_York"
+                style={{ border: 0 }}
+                width="100%"
+                height="600"
+              />
+            </ContentSection>
+
             {/* Course Staff Section */}
             <ContentSection title="Course Staff" id="staff" titleColor="blue">
               <CourseStaffGrid />
