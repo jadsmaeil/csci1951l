@@ -357,7 +357,7 @@ export default function Home() {
                 />
               </p> */}
               <p className="my-4">
-                Zoom Meeting ID (for remote synchronous viewing): 919 8997 8325
+                Zoom Meeting ID (for remote synchronous viewing): 961 2701 0547
               </p>
               <a
                 href="https://drive.google.com/drive/folders/125TuuYWjKgwn3eTeb-JXUdskGTZU1Mt9?usp=sharing"
