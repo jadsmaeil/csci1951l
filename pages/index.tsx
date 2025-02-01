@@ -360,7 +360,7 @@ export default function Home() {
                 Zoom Meeting ID (for remote synchronous viewing): 961 2701 0547
               </p>
               <a
-                href="https://drive.google.com/drive/folders/125TuuYWjKgwn3eTeb-JXUdskGTZU1Mt9?usp=sharing"
+                href="https://drive.google.com/drive/folders/1cnjMyu9_kkDlh_MXsLWPBaggKH9ZyON0?usp=drive_link"
                 className="neon-text-green"
                 style={{ fontSize: "1.3rem" }}
               >
