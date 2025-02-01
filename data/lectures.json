@@ -14,13 +14,13 @@
   {
     "topic": "Bitcoin Mining",
     "date": "1/30",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "/lecture-3-bitcoin-mining.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fe24151-be7b-41b7-ac81-b275016465a9"
   },
   {
     "topic": "Bitcoin Data Structures",
     "date": "2/4",
-    "slidesLink": "",
+    "slidesLink": "/lecture-4-bitcoin-data-structures.pptx",
     "recordingLink": ""
   },
   {
