@@ -37,24 +37,30 @@
   },
   {
     "topic": "Ethereum Data Structures",
-    "date": "2/13",
+    "date": "2/11",
     "slidesLink": "/lecture-7-ethereum-data-structures.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0182e55-fb8a-46be-8b70-b281015fd82b"
   },
   {
-    "topic": "Gas (Async)",
+    "topic": "Gas",
+    "date": "2/13",
+    "slidesLink": "",
+    "recordingLink": ""
+  },
+  {
+    "topic": "Solidity Pitfalls 1 (Async)",
     "date": "2/20",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
-    "topic": "Solidity Pitfalls 1",
+    "topic": "Solidity Pitfalls 2",
     "date": "2/25",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
-    "topic": "Solidity Pitfalls 2 (Async)",
+    "topic": "Solidity Pitfalls 3 (Async)",
     "date": "2/27",
     "slidesLink": "",
     "recordingLink": ""
@@ -67,72 +73,78 @@
   },
   {
     "topic": "Solidity Pitfalls 4",
-    "date": "3/6",
+    "date": "3/4",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "PoS in Algorand and Ethereum",
-    "date": "3/11",
+    "date": "3/6",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Making Ethereum Scalable",
-    "date": "3/13",
+    "date": "3/11",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Off-Chain Payment Channels",
-    "date": "3/18",
+    "date": "3/13",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Concurrency",
-    "date": "3/20",
+    "date": "3/18",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Privacy and Anonymity",
-    "date": "4/1",
+    "date": "3/20",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Privacy Coins",
-    "date": "4/3",
+    "date": "4/1",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Crosschain 1",
-    "date": "4/8",
+    "date": "4/3",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Crosschain 2",
-    "date": "4/10",
+    "date": "4/8",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Wallets and Light Clients",
-    "date": "4/15",
+    "date": "4/10",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Decentralized Finance",
-    "date": "4/17",
+    "date": "4/15",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Regulation and DeFi",
+    "date": "4/17",
+    "slidesLink": "",
+    "recordingLink": ""
+  },
+  {
+    "topic": "TBD",
     "date": "4/22",
     "slidesLink": "",
     "recordingLink": ""
