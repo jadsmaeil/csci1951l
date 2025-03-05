@@ -62,20 +62,14 @@
   {
     "topic": "Solidity Pitfalls 3 (Async)",
     "date": "2/27",
-    "slidesLink": "/lecture-10-solidity-pitfalls-3.pptx",
+    "slidesLink": "/lecture-11-solidity-pitfalls-3.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5681c347-bf51-4337-ba21-b285013b10a6"
-  },
-  {
-    "topic": "Solidity Pitfalls 3",
-    "date": "3/4",
-    "slidesLink": "",
-    "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 4",
     "date": "3/4",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "/lecture-12-solidity-pitfalls-4.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=279d0754-4f20-4e16-8c3c-b29601617f30&start=0.570254"
   },
   {
     "topic": "PoS in Algorand and Ethereum",
