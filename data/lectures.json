@@ -92,20 +92,20 @@
   {
     "topic": "Concurrency",
     "date": "3/18",
-    "slidesLink": "https://docs.google.com/presentation/d/1IG12sGAN-SO1QOdWaLPmvPunDkAdJdj1/edit?usp=drivesdk&ouid=110913032841819688173&rtpof=true&sd=true",
+    "slidesLink": "/lecture-16-concurrency.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=80ad00cb-e395-4eb9-b075-b2a4014a3fb6"
   },
   {
     "topic": "Privacy and Anonymity",
     "date": "3/20",
-    "slidesLink": "https://docs.google.com/file/d/1vlp10XtfVBnLdzVDNEJoXIs0N0E6GYZk/edit?usp=docslist_api&filetype=mspresentation",
+    "slidesLink": "/lecture-17-privacy.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=cb463a7a-b7aa-47a2-9d79-b2a6014adedf"
   },
   {
     "topic": "Privacy Coins",
     "date": "4/1",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "/lecture-18-zcoin.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5318f0-a24c-4878-b1d0-b2b2014cad82"
   },
   {
     "topic": "Crosschain 1",
