@@ -2,145 +2,145 @@
   {
     "topic": "Course Introduction (Zoom)",
     "date": "1/23",
-    "slidesLink": "/lecture-1-intro.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67d49bd0-b1e1-4458-a6e6-b26e0132030f"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Bitcoin Introduction",
     "date": "1/28",
-    "slidesLink": "/lecture-2-bitcoin-intro.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=581b5922-01b5-4234-a6f2-b2730167bec7"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Bitcoin Mining",
     "date": "1/30",
-    "slidesLink": "/lecture-3-bitcoin-mining.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fe24151-be7b-41b7-ac81-b275016465a9"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Bitcoin Data Structures",
     "date": "2/4",
-    "slidesLink": "/lecture-4-bitcoin-data-structures.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a916a6fa-416b-467c-903b-b27a016395b7"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "EVM",
     "date": "2/6",
-    "slidesLink": "/lecture-5-evm.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e0570ce-fa3e-4ec3-889c-b27c01639c95"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Solidity",
     "date": "2/11",
-    "slidesLink": "/lecture-6-solidity.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0182e55-fb8a-46be-8b70-b281015fd82b"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Ethereum Data Structures",
     "date": "2/11",
-    "slidesLink": "/lecture-7-ethereum-data-structures.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0182e55-fb8a-46be-8b70-b281015fd82b"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Gas",
     "date": "2/13",
-    "slidesLink": "/lecture-8-gas.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ce74674-3fc9-4bf8-989f-b283015eacb7"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 1 (Async)",
     "date": "2/20",
-    "slidesLink": "/lecture-9-solidity-pitfalls-1.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=922c479e-f02c-4b81-b41f-b2850128702c"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 2",
     "date": "2/25",
-    "slidesLink": "/lecture-10-solidity-pitfalls-2.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25b32331-9eac-43d0-a941-b28f015b62e3"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 3 (Async)",
     "date": "2/27",
-    "slidesLink": "/lecture-11-solidity-pitfalls-3.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5681c347-bf51-4337-ba21-b285013b10a6"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 4",
     "date": "3/4",
-    "slidesLink": "/lecture-12-solidity-pitfalls-4.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=279d0754-4f20-4e16-8c3c-b29601617f30&start=0.570254"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "PoS in Algorand and Ethereum",
     "date": "3/6",
-    "slidesLink": "/lecture-13-pos-in-algorand-and-ethereum.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6af3603-6709-4163-9ccc-b2980158015d"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Making Ethereum Scalable",
     "date": "3/11",
-    "slidesLink": "/lecture-14-making-ethereum-scalable.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af98b0e4-5230-4414-9b23-b29d0148f156"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Off-Chain Payment Channels",
     "date": "3/13",
-    "slidesLink": "/lecture-15-off-chain.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=cbb02a24-c634-4cc3-ad86-b29f0147c4af"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Concurrency",
     "date": "3/18",
-    "slidesLink": "/lecture-16-concurrency.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=80ad00cb-e395-4eb9-b075-b2a4014a3fb6"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Privacy and Anonymity",
     "date": "3/20",
-    "slidesLink": "/lecture-17-privacy.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=cb463a7a-b7aa-47a2-9d79-b2a6014adedf"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Privacy Coins",
     "date": "4/1",
-    "slidesLink": "/lecture-18-zcoin.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5318f0-a24c-4878-b1d0-b2b2014cad82"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Crosschain 1",
     "date": "4/3",
-    "slidesLink": "/lecture-19-crosschain-1.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81006685-43ff-4a8a-b41d-b2b40148ac51&start=0.452835"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Crosschain 2",
     "date": "4/8",
-    "slidesLink": "/lecture-20-crosschain-2.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd910c76-8087-4669-818f-b2b9014bfa2c"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Wallets and Light Clients (Zoom)",
     "date": "4/10",
-    "slidesLink": "/lecture-21-wallets.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6415014e-b678-4853-ab63-b2bb013cdc56"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Decentralized Finance",
     "date": "4/15",
-    "slidesLink": "/lecture-22-defi.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9686cf68-2b03-4bfa-b499-b2c0014cede1"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Regulation and DeFi",
     "date": "4/17",
-    "slidesLink": "/lecture-23-regulation.pptx",
-    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5afdf093-10f4-4e51-a10c-b2c2014ed720"
+    "slidesLink": "",
+    "recordingLink": ""
   },
   {
     "topic": "Conclusion",
     "date": "4/22",
-    "slidesLink": "/lecture-24-conclusion.pptx",
+    "slidesLink": "",
     "recordingLink": ""
   }
 ]
