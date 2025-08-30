@@ -14,18 +14,18 @@ const PROF_EMAIL = "mph@cs.brown.edu";
 
 // List of links displayed under the Quick Links section.
 const quickLinks: { name: string; href: string }[] = [
-  { name: "Zoom", href: "https://brown.zoom.us/j/96127010547" },
+  { name: "Zoom", href: "" },
   { name: "Syllabus", href: "/cs1951L-syllabus-2025.pdf" },
-  { name: "EdStem", href: "https://edstem.org/us/courses/74765/discussion" },
-  { name: "Hours", href: "https://hours.cs.brown.edu/" },
-  { name: "Gradescope", href: "https://www.gradescope.com/courses/962831" },
+  { name: "EdStem", href: "" },
+  { name: "Hours", href: "" },
+  { name: "Gradescope", href: "" },
   {
     name: "Course Calendar",
-    href: "https://calendar.google.com/calendar/embed?src=c_b607bcdd32f449dbff69a0613511dd4464657249685c1cfd36a0733e35f156e4%40group.calendar.google.com&ctz=America%2FNew_York",
+    href: "https://calendar.google.com/calendar/embed?src=c_2e7b4f08b0e8f89908046889d10b6e58f5f960f6d9df645af124eb37b37e248c%40group.calendar.google.com&ctz=America%2FNew_York",
   },
   {
     name: "Anonymous Feedback",
-    href: "https://docs.google.com/forms/d/e/1FAIpQLSeYz3RaQY4Fql-PKV28oBI99tEY8G9oLUpSzLY_suq-TcXvtw/viewform?usp=dialog",
+    href: "https://docs.google.com/forms/d/e/1FAIpQLSch0AEP17V1fkCMkts5WYkmVbEVXQ5ljrtDAOPOPRluot3BPw/viewform?usp=header",
   },
 ];
 
@@ -376,7 +376,7 @@ export default function Home() {
               titleColor="purple"
             >
               <iframe
-                src="https://calendar.google.com/calendar/embed?src=c_b607bcdd32f449dbff69a0613511dd4464657249685c1cfd36a0733e35f156e4%40group.calendar.google.com&ctz=America%2FNew_York"
+                src="https://calendar.google.com/calendar/embed?src=c_2e7b4f08b0e8f89908046889d10b6e58f5f960f6d9df645af124eb37b37e248c%40group.calendar.google.com&ctz=America%2FNew_York"
                 style={{ border: 0 }}
                 width="100%"
                 height="600"

@@ -8,27 +8,27 @@
     "desc": "I like figuring out how to make things sync."
   },
   {
-    "name": "Jakobi Haskell",
-    "image": "/staff/jakobi.jpeg",
-    "position": "HTA",
-    "csLogin": "jhaskell",
-    "pronouns": "he/him/his",
-    "desc": "Hi! I'm Jakobi, a senior at Brown studying CS. Outside of class, I enjoy playing basketball, watching Celtics games, and playing Civilization. Excited to be your HTA!"
-  },
-  {
     "name": "Jad Alkarim Al Smail",
-    "image": "/staff/jad.jpeg",
-    "position": "UTA",
-    "pronouns": "he/him/his",
+    "image": "/staff/Jad.jpeg",
+    "position": "HTA",
     "csLogin": "jalsmail",
-    "desc": "I'm a sophomore studying APMA & CS. Outside of class, I like to bike and develop websites!"
+    "pronouns": "he/him",
+    "desc": "I'm a Junior studying APMA & CS. Outside of class, I like to bike and develop websites!"
   },
   {
-    "name": "Hao Wen",
-    "image": "/staff/hao.jpeg",
+    "name": "Daniel Ma",
+    "image": "/staff/Daniel.png",
     "position": "UTA",
-    "pronouns": "he/him/his",
-    "csLogin": "hwen5",
-    "desc": "Hi! My name is Hao, and I'm a senior concentrating in APMA-CS. I like fintech and systems. Outside of class, I enjoy playing music and watching/making films."
+    "pronouns": "he/him",
+    "csLogin": "dma24",
+    "desc": "Hi! I'm Daniel and I'm a Junior studying APMA-CS. Outside of class I enjoy trying new foods and adding to my vinyl collection."
+  },
+  {
+    "name": "Dhuruv Gada",
+    "image": "/staff/Dhruv.jpeg",
+    "position": "UTA",
+    "pronouns": "he/him",
+    "csLogin": "dgada",
+    "desc": "I’m a Master’s student in Computer Science. Outside of class, I enjoy gaming and watching soccer."
   }
 ]

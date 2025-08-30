@@ -1,145 +1,145 @@
 [
   {
-    "topic": "Course Introduction (Zoom)",
-    "date": "1/23",
+    "topic": "Course Introduction",
+    "date": "9/4",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Bitcoin Introduction",
-    "date": "1/28",
+    "date": "9/9",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Bitcoin Mining",
-    "date": "1/30",
+    "date": "9/11",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Bitcoin Data Structures",
-    "date": "2/4",
+    "date": "9/16",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "EVM",
-    "date": "2/6",
+    "date": "9/18",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Solidity",
-    "date": "2/11",
+    "date": "9/23",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Ethereum Data Structures",
-    "date": "2/11",
+    "date": "9/25",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Gas",
-    "date": "2/13",
+    "date": "9/30",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 1 (Async)",
-    "date": "2/20",
+    "date": "10/2",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 2",
-    "date": "2/25",
+    "date": "10/7",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 3 (Async)",
-    "date": "2/27",
+    "date": "10/9",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Solidity Pitfalls 4",
-    "date": "3/4",
+    "date": "10/14",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "PoS in Algorand and Ethereum",
-    "date": "3/6",
+    "date": "10/16",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Making Ethereum Scalable",
-    "date": "3/11",
+    "date": "10/21",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Off-Chain Payment Channels",
-    "date": "3/13",
+    "date": "10/23",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Concurrency",
-    "date": "3/18",
+    "date": "10/28",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Privacy and Anonymity",
-    "date": "3/20",
+    "date": "10/30",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Privacy Coins",
-    "date": "4/1",
+    "date": "11/4",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Crosschain 1",
-    "date": "4/3",
+    "date": "11/6",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Crosschain 2",
-    "date": "4/8",
+    "date": "11/11",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Wallets and Light Clients (Zoom)",
-    "date": "4/10",
+    "date": "11/13",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Decentralized Finance",
-    "date": "4/15",
+    "date": "11/18",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Regulation and DeFi",
-    "date": "4/17",
+    "date": "11/20",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
     "topic": "Conclusion",
-    "date": "4/22",
+    "date": "11/25",
     "slidesLink": "",
     "recordingLink": ""
   }
