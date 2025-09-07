@@ -16,7 +16,7 @@ const PROF_EMAIL = "mph@cs.brown.edu";
 const quickLinks: { name: string; href: string }[] = [
   { name: "Zoom", href: "https://brown.zoom.us/j/99971176952" },
   { name: "Syllabus", href: "/cs1951L-syllabus-2025.pdf" },
-  { name: "EdStem", href: "" },
+  { name: "EdStem", href: "https://edstem.org/us/join/hJSFCs" },
   { name: "Hours", href: "https://hours.cs.brown.edu/" },
   { name: "Gradescope", href: "" },
   {
