@@ -14,10 +14,10 @@ const PROF_EMAIL = "mph@cs.brown.edu";
 
 // List of links displayed under the Quick Links section.
 const quickLinks: { name: string; href: string }[] = [
-  { name: "Zoom", href: "" },
+  { name: "Zoom", href: "https://brown.zoom.us/j/99971176952" },
   { name: "Syllabus", href: "/cs1951L-syllabus-2025.pdf" },
   { name: "EdStem", href: "" },
-  { name: "Hours", href: "" },
+  { name: "Hours", href: "https://hours.cs.brown.edu/" },
   { name: "Gradescope", href: "" },
   {
     name: "Course Calendar",
