@@ -8,14 +8,14 @@
   {
     "topic": "Bitcoin Introduction",
     "date": "9/9",
-    "slidesLink": "",
+    "slidesLink": "./lectures-f25/lecture 2 bitcoin intro.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c158d9e-3640-4cb6-8b7e-b348000fb4c9"
   },
   {
     "topic": "Bitcoin Mining",
     "date": "9/11",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 3 bitcoin mining.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e43f9f5-38e8-4e3c-8c32-b348000fb4e7"
   },
   {
     "topic": "Bitcoin Data Structures",
