@@ -20,14 +20,14 @@
   {
     "topic": "Bitcoin Data Structures",
     "date": "9/16",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 4 bitcoin data structures.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82c6c2fd-1e6f-4b80-bdda-b348000fb50b"
   },
   {
     "topic": "EVM",
     "date": "9/18",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 5 evm.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=959ef828-8b97-4943-92f3-b348000fb53b"
   },
   {
     "topic": "Solidity",
