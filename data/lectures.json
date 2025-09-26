@@ -32,14 +32,14 @@
   {
     "topic": "Solidity",
     "date": "9/23",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 6 solidity.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c788809-ba50-4a2a-8ebe-b348000fb581"
   },
   {
     "topic": "Ethereum Data Structures",
     "date": "9/25",
     "slidesLink": "",
-    "recordingLink": ""
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c7d7f0d-87fb-469b-9e25-b348000fb5a4"
   },
   {
     "topic": "Gas",
