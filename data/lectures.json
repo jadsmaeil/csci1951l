@@ -44,13 +44,13 @@
   {
     "topic": "Gas",
     "date": "9/30",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 8 gas.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93d946b2-9fae-4c49-b2fd-b348000fb5d6"
   },
   {
     "topic": "Solidity Pitfalls 1 (Async)",
     "date": "10/2",
-    "slidesLink": "",
+    "slidesLink": "./lectures-f25/lecture 9 solidity pitfalls 1.pptx",
     "recordingLink": ""
   },
   {
