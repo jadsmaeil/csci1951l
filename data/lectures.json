@@ -56,13 +56,13 @@
   {
     "topic": "Solidity Pitfalls 2",
     "date": "10/7",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 10 solidity pitfalls 2.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f16d42e-bac5-4911-838a-b348000fb628"
   },
   {
-    "topic": "Solidity Pitfalls 3 (Async)",
+    "topic": "Solidity Pitfalls 3",
     "date": "10/9",
-    "slidesLink": "",
+    "slidesLink": "./lectures-f25/lecture 11 solidity pitfalls 3.pptx",
     "recordingLink": ""
   },
   {
