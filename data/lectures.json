@@ -75,19 +75,19 @@
     "topic": "PoS in Algorand and Ethereum",
     "date": "10/16",
     "slidesLink": "./lectures-f25/lecture 13 algorand.pptx",
-    "recordingLink": ""
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03c81d95-ede3-4c47-bd2e-b37801519f49"
   },
   {
     "topic": "Making Ethereum Scalable",
     "date": "10/21",
     "slidesLink": "./lectures-f25/lecture 14 making ethereum scalable.pptx",
-    "recordingLink": ""
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ed52824-9f12-4fcb-9e68-b348000fb718"
   },
   {
     "topic": "Off-Chain Payment Channels",
     "date": "10/23",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 17 privacy.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=234c423b-f3d2-4c8f-bf47-b348000fb752"
   },
   {
     "topic": "Concurrency",
