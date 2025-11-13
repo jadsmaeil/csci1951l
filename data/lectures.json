@@ -84,7 +84,7 @@
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ed52824-9f12-4fcb-9e68-b348000fb718"
   },
   {
-    "topic": "Off-Chain Payment Channels",
+    "topic": "Privacy and Anonymity",
     "date": "10/23",
     "slidesLink": "./lectures-f25/lecture 17 privacy.pptx",
     "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=234c423b-f3d2-4c8f-bf47-b348000fb752"
@@ -92,47 +92,47 @@
   {
     "topic": "Concurrency",
     "date": "10/28",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 16 concurrency.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ed032a3-92b2-4d9c-817a-b348000fb774"
   },
   {
-    "topic": "Privacy and Anonymity",
+    "topic": "Off-Chain Payment Channels",
     "date": "10/30",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 15 off-chain.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8416af3-8a01-4ec1-94e8-b348000fb793"
   },
   {
     "topic": "Privacy Coins",
     "date": "11/4",
     "slidesLink": "",
-    "recordingLink": ""
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=383064f7-debb-4824-831e-b348000fb7ce"
   },
   {
     "topic": "Crosschain 1",
     "date": "11/6",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 19 crosschain 1.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a9007b4-09d5-4e54-8d00-b348000fb7f8"
   },
   {
-    "topic": "Crosschain 2",
+    "topic": "Defi",
     "date": "11/11",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 22 defi.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c518ba2b-8fa4-4efe-a2b8-b348000fb825"
   },
   {
-    "topic": "Wallets and Light Clients",
+    "topic": "stablecoins (asynch)",
     "date": "11/13",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 23 stablecoins.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75042215-cfcc-436c-8b52-b39301717109"
   },
   {
-    "topic": "Decentralized Finance",
+    "topic": "Regulation and Defi",
     "date": "11/18",
     "slidesLink": "",
     "recordingLink": ""
   },
   {
-    "topic": "Regulation and DeFi",
+    "topic": "Consensus",
     "date": "11/20",
     "slidesLink": "",
     "recordingLink": ""
