@@ -128,14 +128,14 @@
   {
     "topic": "Regulation and Defi",
     "date": "11/18",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 23 stablecoins.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3292595-128a-4930-8920-b348000fb878"
   },
   {
     "topic": "Consensus",
     "date": "11/20",
-    "slidesLink": "",
-    "recordingLink": ""
+    "slidesLink": "./lectures-f25/lecture 25 byzantine consensus.pptx",
+    "recordingLink": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=073051ad-adb1-4567-b25c-b348000fb89c"
   },
   {
     "topic": "Conclusion",
